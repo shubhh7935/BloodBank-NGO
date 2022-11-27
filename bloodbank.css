@@ -1,0 +1,53 @@
+body{
+  background-color: darksalmon;
+}
+.header{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  
+  
+}
+.header_right{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: end;
+}
+
+.links{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.block3{
+  background-color: cadetblue;
+  /* display: flex; */
+}
+.finddonor{
+  margin-left: 30px;
+  border: solid black;
+  margin-right: 1050px;
+  background-color: blue;
+}
+.findadonor{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.process{
+  background-color: aquamarine;
+  border: solid black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.location-of-donation{
+  background-color: aqua;
+  border: solid black;
+}
+
+
