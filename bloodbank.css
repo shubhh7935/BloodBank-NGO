@@ -25,7 +25,7 @@ body{
 
 .block3{
   background-color: cadetblue;
-  /* display: flex; */
+  display: flex;
 }
 .finddonor{
   margin-left: 30px;
