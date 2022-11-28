@@ -24,8 +24,8 @@ body{
 }
 
 .block3{
-  background-color: cadetblue;
   display: flex;
+  background-color: burlywood;
 }
 .finddonor{
   margin-left: 30px;
