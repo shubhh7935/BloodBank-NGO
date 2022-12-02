@@ -1,5 +1,5 @@
 body{
-  background-color: darksalmon;
+  /* background-color: darksalmon; */
 }
 .header{
   display: flex;
@@ -25,13 +25,13 @@ body{
 
 .block3{
   display: flex;
-  background-color: burlywood;
+  /* background-color: burlywood; */
 }
 .finddonor{
   margin-left: 30px;
   border: solid black;
   margin-right: 1050px;
-  background-color: blue;
+  /* background-color: blue; */
 }
 .findadonor{
   display: flex;
@@ -39,14 +39,14 @@ body{
   align-items: center;
 }
 .process{
-  background-color: aquamarine;
+  /* background-color: aquamarine; */
   border: solid black;
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 .location-of-donation{
-  background-color: aqua;
+  /* background-color: aqua; */
   border: solid black;
 }
 
