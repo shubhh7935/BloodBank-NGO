@@ -22,6 +22,13 @@ body{
   justify-content: space-around;
   align-items: center;
 }
+.buttons{
+  background-color: #d53c28;
+  color: rgb(255, 251, 251);
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
 
 .block3{
   display: flex;
